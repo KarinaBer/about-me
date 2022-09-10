@@ -17,4 +17,4 @@
 + активность, коммуникабельность
 + трудолюбие и целеустремлённость 
 
-![моя фотография](https://disk.yandex.ru/client/recent?idApp=client&dialog=slider&idDialog=%2Fdisk%2F_DSC0143.jpgr.jpg)
+![_DSC0143 jpgr](https://user-images.githubusercontent.com/112567394/189483718-135d3d7e-8004-4c4d-80c7-de86efbf3db8.jpg)
